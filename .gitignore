@@ -1,4 +1,6 @@
 nbproject
 npm-debug.log
+temp_auto_push.bat
 node_modules
-.sass-cache
+.sass-cache.gitignore
+branch_structure.json
